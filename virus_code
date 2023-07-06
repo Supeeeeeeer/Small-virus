@@ -1,0 +1,6 @@
+a = str(input(""))
+if a == "start":
+  x = 5
+while x == 5:
+  print("weeee")
+  print("yeaaaah")
