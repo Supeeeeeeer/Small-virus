@@ -1,1 +1,1 @@
-#small virus for low-processor computersBe!
+small virus for low-processor computers!
